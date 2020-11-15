@@ -1,0 +1,209 @@
+/* ---------------------DESKTOP----------------------------*/
+@media (min-width: 768px) and (max-width:960px){
+    
+    main{
+        margin: 0;
+        width: 960px;
+        /* display: none; */
+    }
+
+    div{
+        text-align: center;
+    }
+
+    #a{
+        width: 960px;
+        height: 100px;
+        line-height: 100px;
+        background-color: #43ADE0;
+    }
+
+    #b{
+        float: left;
+        width: 200px;
+        height: 600px;
+        line-height: 600px;
+        overflow: hidden;
+
+        background-color: #37E04B;
+    }
+
+    #container1{
+        width: 760px;
+        height: 200px;
+    }
+
+    #container2{
+        width: 760px;
+        height: 250px;
+    }
+
+    #container3{
+        /* float: left; */
+        overflow: hidden;
+
+    }
+    #c{
+        width: 380px;
+        height: 200px;
+        line-height: 200px;
+        float: left;
+        background-color: #431DE0;
+    }
+
+    #d{
+        width: 380px;
+        height: 200px;
+        line-height: 200px;
+        /* float: left; */
+        overflow: hidden;
+        background-color: #431DE0;
+    }
+
+    #e{
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+        background-color:  #DE9E0D;
+    }
+
+    #f{
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+        background-color:  #DE9E0D;
+    }
+
+    #g{
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+        background-color: #DE9E0D;
+    }
+
+    #h{
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+        background-color: #DE9E0D;
+    }
+
+    #i{
+        width: 760px;
+        height: 150px;
+        line-height: 150px;
+        clear: both;
+        background-color: #E01D0B;
+    }
+}
+
+
+/*-----------------------------MOBILE----------------------*/
+
+@media (min-width: 480px) and (max-width:767px){
+    
+    main{
+        margin: 0;
+        width: 480px;
+        /* display: none; */
+    }
+
+    div{
+        outline: 1px solid black;
+        text-align: center;
+    }
+
+    #a{
+        width: 480px;
+        height: 75px;
+        line-height: 75px;
+        background-color: #43ADE0;
+    }
+
+    #b{
+        /* float: left; */
+        width: 480px;
+        height: 150px;
+        line-height: 150px;
+        /* overflow: hidden; */
+        background-color: #37E04B;
+    }
+
+    #container1{
+        width: 480px;
+        height: 250px;
+    }
+
+    #container2{
+        width: 480px;
+        height: 500px;
+    }
+
+    #container3{
+        /* float: left; */
+        overflow: hidden;
+
+    }
+    #c{
+        width: 480px;
+        height: 125px;
+        line-height: 125px;
+        /* float: left; */
+        background-color: #431DE0;
+    }
+
+    #d{
+        width: 480px;
+        height: 125px;
+        line-height: 125px;
+        /* float: left; */
+        /* overflow: hidden; */
+        background-color: #431DE0;
+    }
+
+    #e{
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+        background-color:  #DE9E0D;
+    }
+
+    #f{
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+        /* float: left; */
+        overflow: hidden;
+        background-color:  #DE9E0D;
+    }
+
+    #g{
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+        background-color: #DE9E0D;
+    }
+
+    #h{
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+        /* float: left; */
+        overflow: hidden;
+        background-color: #DE9E0D;
+    }
+
+    #i{
+        width: 480px;
+        height: 80px;
+        line-height: 80px;
+        clear: both;
+        background-color: #E01D0B;
+    }
+}
